@@ -43,7 +43,19 @@
     },
     {
       "name": "在线影视",
-      "data": [
+      "data": [        
+        {
+          "name": "AGE动漫(Web)",
+          "type": "app://customWeb",
+          "pic": "https://cdn.radius-america.com/age/static/img/logo.png",
+          "url": "https://www.agemys.com/"
+        },
+        {
+          "name": "优酷搜索(Web)",
+          "type": "app://customWeb",
+          "pic": "https://gw.alicdn.com/tfs/TB1ugm9f5cKOu4jSZKbXXc19XXa-356-76.png",
+          "url": "https://so.youku.com/search_video/q_"
+        },
         {
           "name": "虎牙一起看",
           "type": "app://customWeb",
