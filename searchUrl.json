@@ -421,13 +421,6 @@
         },
         {
             "id": 1,
-            "name": "R环亚",
-            "url": "http://wmcj8.com/inc/sapi.php",
-            "cate": "",
-            "click": true
-        },
-        {
-            "id": 1,
             "name": "R番号",
             "url": "http://fhapi9.com/api.php/provide/vod/at/xml",
             "cate": "",
