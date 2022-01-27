@@ -1,69 +1,322 @@
 {
-  "data": [
-    {
-      "id": 19,
-      "name": "自定义1",
-      "ad": "no",
-      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
-    },
-    {
-      "id": 19,
-      "name": "自定义2",
-      "ad": "no",
-      "url": "https://sb.5gseo.net/?url="
-    }
-{"id": 19,"name": "纯净接口:1907", "ad": "no","url": "https://z1.m1907.cn/?jx="},
-{"id": 19,"name": "B站解析:parwix", "ad": "no","url": "https://vip.parwix.com:4433/player/?url="},
-{"id": 19,"name": "接口:Ckplayer", "ad": "no","url": "https://www.ckplayer.vip/jiexi/?url="},
-{"id": 19,"name": "接口:ccyjjd", "ad": "no","url": "https://ckmov.ccyjjd.com/ckmov/?url="},
-{"id": 19,"name": "接口:盘古", "ad": "no","url": "https://www.pangujiexi.cc/jiexi.php?url="},
-{"id": 19,"name": "接口:迪奥", "ad": "no","url": "https://123.1dior.cn/?url="},
-{"id": 19,"name": "接口:H8", "ad": "no","url": "https://www.h8jx.com/jiexi.php?url="},
-{"id": 19,"name": "接口:解析la", "ad": "no","url": "https://api.jiexi.la/?url="},
-{"id": 19,"name": "接口:久播", "ad": "no","url": "https://jx.jiubojx.com/vip.php?url="},
-{"id": 19,"name": "接口:九八", "ad": "no","url": "https://jx.youyitv.com/?url="},
-{"id": 19,"name": "接口:老板", "ad": "no","url": "https://vip.laobandq.com/jiexi.php?url="},
-{"id": 19,"name": "接口:MUTV", "ad": "no","url": "https://jiexi.janan.net/jiexi/?url="},
-{"id": 19,"name": "接口:明日", "ad": "no","url": "https://jx.yingxiangbao.cn/vip.php?url="},
-{"id": 19,"name": "接口:OK", "ad": "no","url": "https://okjx.cc/?url="},
-{"id": 19,"name": "接口:云析", "ad": "no","url": "https://jx.yparse.com/index.php?url="},
-{"id": 19,"name": "接口:17云", "ad": "no","url": "https://www.1717yun.com/jx/ty.php?url="},
-{"id": 19,"name": "接口:200", "ad": "no","url": "https://vip.66parse.club/?url="},
-{"id": 19,"name": "接口:8090", "ad": "no","url": "https://www.8090g.cn/?url="},
-{"id": 19,"name": "小蒋极致", "ad": "no","url": "https://www.kpezp.cn/jlexi.php?url="},
-{"id": 19,"name": "维多解析（超清）", "ad": "no","url": "https://jx.ivito.cn/?url="},
-{"id": 19,"name": "逆天解析", "ad": "no","url": "http://nitian9.com/?url="},
-{"id": 19,"name": "解析系统", "ad": "no","url": "https://www.ckmov.vip/api.php?url="},
-{"id": 19,"name": "bl解析", "ad": "no","url": "https://vip.bljiex.com/?v="},
-{"id": 19,"name": "55解析", "ad": "no","url": "http://55jx.top/?url="},
-{"id": 19,"name": "19解析", "ad": "no","url": "http://19g.top/?url="},
-{"id": 19,"name": "热点解析", "ad": "no","url": "http://jx.rdhk.net/?v="},
-{"id": 19,"name": "通用vip接口3", "ad": "no","url": "http://www.1717yun.com/jx/ty.php?url="},
-{"id": 19,"name": "③号接口-B站专用接口", "ad": "no","url": "https://www.cuan.la/m3u8.php?url="},
-{"id": 19,"name": "⑤号接口", "ad": "no","url": "https://jx.m3u8.tv/jiexi/?url="},
-{"id": 19,"name": "17云", "ad": "no","url": "http://17kyun.com/api.php?url="},
-{"id": 19,"name": "玩的嗨——16-若接口失效可反馈！QQ群:340569308", "ad": "no","url": "http://17kyun.com/api.php?url="},
-{"id": 19,"name": "玩的嗨——46-若接口失效可反馈！QQ群:340569308", "ad": "no","url": "https://www.1717yun.com/jx/ty.php?url="},
-{"id": 19,"name": "玩的嗨——28-若接口失效可反馈！QQ群:340569308", "ad": "no","url": "https://z1.m1907.cn/?jx="},
-{"id": 19,"name": "玩的嗨——56-若接口失效可反馈！QQ群:340569308", "ad": "no","url": "https://jx.70808.net/?url="},
-{"id": 19,"name": "全能vip接口②", "ad": "no","url": "https://www.8090.la/8090/?url="},
-{"id": 19,"name": "全能vip接口⑤", "ad": "no","url": "https://test.rongxingvr.com/test/?url="},
-{"id": 19,"name": "B站番剧接口①", "ad": "no","url": "https://www.cuan.la/m3u8.php?url="},
-{"id": 19,"name": "通用高清接口①", "ad": "no","url": "https://60jx.com/?url="},
-{"id": 19,"name": "备用高清接口②", "ad": "no","url": "http://www.ikukk.com/?url="},
-{"id": 19,"name": "1717", "ad": "no","url": "https://www.1717yun.com/1717yun/?url="},
-{"id": 19,"name": "盘古", "ad": "no","url": "https://www.pangujiexi.com/jiexi/?url="},
-{"id": 19,"name": "eptept", "ad": "no","url": "https://dmjx.m3u8.tv/?url="},
-{"id": 19,"name": "BL", "ad": "no","url": "https://vip.bljiex.com/?v="},
-{"id": 19,"name": "OK解析", "ad": "no","url": "https://api.okjx.cc:3389/jx.php?url="},
-{"id": 19,"name": "m2090", "ad": "no","url": "https://m2090.com/?url="},
-{"id": 19,"name": "Mao解析", "ad": "no","url": "ttps://www.mtosz.com/m3u8.php?url="},
-{"id": 19,"name": "", "ad": "no","url": "https://jx.aidouer.net/?url="},
-{"id": 19,"name": "云解析", "ad": "no","url": "https://jx.ppflv.com/?url="},
-{"id": 19,"name": "久播解析", "ad": "no","url": "https://www.qianyicp.com/vip/vip_g.php?url="},
-{"id": 19,"name": "虾米解析", "ad": "no","url": "ttps://jx.xmflv.com/?url="},
-{"id": 19,"name": "Parwix解析1", "ad": "no","url": "https://jx.parwix.com:4433/player/analysis.php?v="},
-{"id": 19,"name": "Parwix解析2", "ad": "no","url": "https://vip.parwix.com:4433/player/?url="},
-{"id": 19,"name": "玩的嗨——45-若接口失效可反馈！QQ群:340569308", "ad": "no","url": "http://vip.wandhi.com/?v="},
-  ]
+    "data": [
+        {
+            "id": 19,
+            "name": "纯净接口:1907",
+            "ad": "no",
+            "url": "https://z1.m1907.cn/?jx="
+        },
+        {
+            "id": 19,
+            "name": "B站解析:parwix",
+            "ad": "no",
+            "url": "https://vip.parwix.com:4433/player/?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:Ckplayer",
+            "ad": "no",
+            "url": "https://www.ckplayer.vip/jiexi/?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:ccyjjd",
+            "ad": "no",
+            "url": "https://ckmov.ccyjjd.com/ckmov/?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:盘古",
+            "ad": "no",
+            "url": "https://www.pangujiexi.cc/jiexi.php?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:迪奥",
+            "ad": "no",
+            "url": "https://123.1dior.cn/?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:H8",
+            "ad": "no",
+            "url": "https://www.h8jx.com/jiexi.php?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:解析la",
+            "ad": "no",
+            "url": "https://api.jiexi.la/?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:久播",
+            "ad": "no",
+            "url": "https://jx.jiubojx.com/vip.php?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:九八",
+            "ad": "no",
+            "url": "https://jx.youyitv.com/?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:老板",
+            "ad": "no",
+            "url": "https://vip.laobandq.com/jiexi.php?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:MUTV",
+            "ad": "no",
+            "url": "https://jiexi.janan.net/jiexi/?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:明日",
+            "ad": "no",
+            "url": "https://jx.yingxiangbao.cn/vip.php?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:OK",
+            "ad": "no",
+            "url": "https://okjx.cc/?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:云析",
+            "ad": "no",
+            "url": "https://jx.yparse.com/index.php?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:17云",
+            "ad": "no",
+            "url": "https://www.1717yun.com/jx/ty.php?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:200",
+            "ad": "no",
+            "url": "https://vip.66parse.club/?url="
+        },
+        {
+            "id": 19,
+            "name": "接口:8090",
+            "ad": "no",
+            "url": "https://www.8090g.cn/?url="
+        },
+        {
+            "id": 19,
+            "name": "小蒋极致",
+            "ad": "no",
+            "url": "https://www.kpezp.cn/jlexi.php?url="
+        },
+        {
+            "id": 19,
+            "name": "维多解析（超清）",
+            "ad": "no",
+            "url": "https://jx.ivito.cn/?url="
+        },
+        {
+            "id": 19,
+            "name": "逆天解析",
+            "ad": "no",
+            "url": "http://nitian9.com/?url="
+        },
+        {
+            "id": 19,
+            "name": "解析系统",
+            "ad": "no",
+            "url": "https://www.ckmov.vip/api.php?url="
+        },
+        {
+            "id": 19,
+            "name": "bl解析",
+            "ad": "no",
+            "url": "https://vip.bljiex.com/?v="
+        },
+        {
+            "id": 19,
+            "name": "55解析",
+            "ad": "no",
+            "url": "http://55jx.top/?url="
+        },
+        {
+            "id": 19,
+            "name": "19解析",
+            "ad": "no",
+            "url": "http://19g.top/?url="
+        },
+        {
+            "id": 19,
+            "name": "热点解析",
+            "ad": "no",
+            "url": "http://jx.rdhk.net/?v="
+        },
+        {
+            "id": 19,
+            "name": "通用vip接口3",
+            "ad": "no",
+            "url": "http://www.1717yun.com/jx/ty.php?url="
+        },
+        {
+            "id": 19,
+            "name": "③号接口-B站专用接口",
+            "ad": "no",
+            "url": "https://www.cuan.la/m3u8.php?url="
+        },
+        {
+            "id": 19,
+            "name": "⑤号接口",
+            "ad": "no",
+            "url": "https://jx.m3u8.tv/jiexi/?url="
+        },
+        {
+            "id": 19,
+            "name": "17云",
+            "ad": "no",
+            "url": "http://17kyun.com/api.php?url="
+        },
+        {
+            "id": 19,
+            "name": "玩的嗨——16-若接口失效可反馈！QQ群:340569308",
+            "ad": "no",
+            "url": "http://17kyun.com/api.php?url="
+        },
+        {
+            "id": 19,
+            "name": "玩的嗨——46-若接口失效可反馈！QQ群:340569308",
+            "ad": "no",
+            "url": "https://www.1717yun.com/jx/ty.php?url="
+        },
+        {
+            "id": 19,
+            "name": "玩的嗨——28-若接口失效可反馈！QQ群:340569308",
+            "ad": "no",
+            "url": "https://z1.m1907.cn/?jx="
+        },
+        {
+            "id": 19,
+            "name": "玩的嗨——56-若接口失效可反馈！QQ群:340569308",
+            "ad": "no",
+            "url": "https://jx.70808.net/?url="
+        },
+        {
+            "id": 19,
+            "name": "全能vip接口②",
+            "ad": "no",
+            "url": "https://www.8090.la/8090/?url="
+        },
+        {
+            "id": 19,
+            "name": "全能vip接口⑤",
+            "ad": "no",
+            "url": "https://test.rongxingvr.com/test/?url="
+        },
+        {
+            "id": 19,
+            "name": "B站番剧接口①",
+            "ad": "no",
+            "url": "https://www.cuan.la/m3u8.php?url="
+        },
+        {
+            "id": 19,
+            "name": "通用高清接口①",
+            "ad": "no",
+            "url": "https://60jx.com/?url="
+        },
+        {
+            "id": 19,
+            "name": "备用高清接口②",
+            "ad": "no",
+            "url": "http://www.ikukk.com/?url="
+        },
+        {
+            "id": 19,
+            "name": "1717",
+            "ad": "no",
+            "url": "https://www.1717yun.com/1717yun/?url="
+        },
+        {
+            "id": 19,
+            "name": "盘古",
+            "ad": "no",
+            "url": "https://www.pangujiexi.com/jiexi/?url="
+        },
+        {
+            "id": 19,
+            "name": "eptept",
+            "ad": "no",
+            "url": "https://dmjx.m3u8.tv/?url="
+        },
+        {
+            "id": 19,
+            "name": "BL",
+            "ad": "no",
+            "url": "https://vip.bljiex.com/?v="
+        },
+        {
+            "id": 19,
+            "name": "OK解析",
+            "ad": "no",
+            "url": "https://api.okjx.cc:3389/jx.php?url="
+        },
+        {
+            "id": 19,
+            "name": "m2090",
+            "ad": "no",
+            "url": "https://m2090.com/?url="
+        },
+        {
+            "id": 19,
+            "name": "Mao解析",
+            "ad": "no",
+            "url": "ttps://www.mtosz.com/m3u8.php?url="
+        },
+        {
+            "id": 19,
+            "name": "",
+            "ad": "no",
+            "url": "https://jx.aidouer.net/?url="
+        },
+        {
+            "id": 19,
+            "name": "云解析",
+            "ad": "no",
+            "url": "https://jx.ppflv.com/?url="
+        },
+        {
+            "id": 19,
+            "name": "久播解析",
+            "ad": "no",
+            "url": "https://www.qianyicp.com/vip/vip_g.php?url="
+        },
+        {
+            "id": 19,
+            "name": "虾米解析",
+            "ad": "no",
+            "url": "ttps://jx.xmflv.com/?url="
+        },
+        {
+            "id": 19,
+            "name": "Parwix解析1",
+            "ad": "no",
+            "url": "https://jx.parwix.com:4433/player/analysis.php?v="
+        },
+        {
+            "id": 19,
+            "name": "Parwix解析2",
+            "ad": "no",
+            "url": "https://vip.parwix.com:4433/player/?url="
+        },
+        {
+            "id": 19,
+            "name": "玩的嗨——45-若接口失效可反馈！QQ群:340569308",
+            "ad": "no",
+            "url": "http://vip.wandhi.com/?v="
+        }
+    ]
 }
