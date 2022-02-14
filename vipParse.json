@@ -2,6 +2,12 @@
     "data": [
         {
             "id": 19,
+            "name": "玩的嗨",
+            "ad": "no",
+            "url": "http://tv.wandhi.com/go.html?url="
+        },
+        {
+            "id": 19,
             "name": "纯净接口:1907",
             "ad": "no",
             "url": "https://z1.m1907.cn/?jx="
